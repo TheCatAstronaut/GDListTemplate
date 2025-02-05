@@ -1,19 +1,18 @@
 {
-    "id": 115,
+    "id": 123,
     "name": "colourful_dream",
-    "author": "Skylar",
-    "creators": ["Skylar"],["aquatic"]
+    "author": "skylar",
+    "creators": ["aquatic", "skylar"],
     "verifier": "aquatic",
-    "verification": "https://youtu.be/xm3YgoEiEDc?si=Q1aNO4Th0--zn3qL",
-    "percentToQualify": "100",
+    "verification": "https://youtu.be/xm3YgoEiEDc?si=9T9A4hZ1e_TJAMYa",
+    "percentToQualify": 100,
     "password": "free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "none",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
-        },
-        
+        }
     ]
 }
