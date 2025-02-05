@@ -1,0 +1,18 @@
+{
+    "id": 123,
+    "name": "Radiance",
+    "author": "aquatic",
+    "creators": ["aquatic"],
+    "verifier": "aquatic",
+    "verification": " https://www.youtube.com/watch?v=65zdHHBHH0c",
+    "percentToQualify": 100,
+    "password": "free to copy",
+    "records": [
+        {
+            "user": "none",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
